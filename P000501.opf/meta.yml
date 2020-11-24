@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD105834
   title: མི་ཡུལ་གྱི་གཏམ་རྒྱུད་།
-  volume: ''
+  volume:
+    1ae778aba0a043088761b879fa47d38c:
+      image_group_id: I1PD105836
+      title: Volume 1 of mi yul gyi gtam rgyud
+      volume_number: 1
+      total_pages: 288
   author: ''
+ebook_metadata:
+  title: མི་ཡུལ་གྱི་གཏམ་རྒྱུད་།
+  author: ''
+  sku: P000501
+  cover: cover.jpg
+  layers:
+  - pagination
