@@ -1,15 +1,16 @@
-id: opecha:P000501
+id: P000501
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD105834
   title: མི་ཡུལ་གྱི་གཏམ་རྒྱུད་།
-  volume:
+  author: ''
+  volumes:
     1ae778aba0a043088761b879fa47d38c:
       image_group_id: I1PD105836
       title: Volume 1 of mi yul gyi gtam rgyud
       volume_number: 1
       total_pages: 288
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མི་ཡུལ་གྱི་གཏམ་རྒྱུད་།
   author: ''
